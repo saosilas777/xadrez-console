@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {}
+    "D:\\Visual Studio Exercices\\Nova pasta\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {
+    "D:\\Visual Studio Exercices\\Nova pasta\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+        "projectUniqueName": "D:\\Visual Studio Exercices\\Nova pasta\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
         "projectName": "xadrez-console",
-        "projectPath": "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+        "projectPath": "D:\\Visual Studio Exercices\\Nova pasta\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
         "packagesPath": "C:\\Users\\saosi\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console\\obj\\",
+        "outputPath": "D:\\Visual Studio Exercices\\Nova pasta\\xadrez-console\\xadrez-console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -46,3 +46,19 @@ D:\JogoDeXadrez\teste\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-cons
 D:\JogoDeXadrez\teste\xadrez-console\xadrez-console\obj\Debug\net5.0\ref\xadrez-console.dll
 D:\JogoDeXadrez\teste\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.pdb
 D:\JogoDeXadrez\teste\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.genruntimeconfig.cache
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.exe
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.deps.json
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.runtimeconfig.json
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.runtimeconfig.dev.json
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.dll
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\bin\Debug\net5.0\ref\xadrez-console.dll
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.pdb
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.csproj.AssemblyReference.cache
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.AssemblyInfoInputs.cache
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.AssemblyInfo.cs
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.csproj.CoreCompileInputs.cache
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.dll
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\ref\xadrez-console.dll
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.pdb
+D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.genruntimeconfig.cache

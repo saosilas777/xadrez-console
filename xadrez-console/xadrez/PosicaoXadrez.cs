@@ -1,8 +1,8 @@
-﻿using xadrez;
-using tabuleiro;
+﻿using tabuleiro;
 
 
 namespace xadrez
+
 {
     class PosicaoXadrez
     {
