@@ -62,3 +62,19 @@ D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\ne
 D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\ref\xadrez-console.dll
 D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.pdb
 D:\Visual Studio Exercices\Nova pasta\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.genruntimeconfig.cache
+D:\Xadrez\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.exe
+D:\Xadrez\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.deps.json
+D:\Xadrez\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.runtimeconfig.json
+D:\Xadrez\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.runtimeconfig.dev.json
+D:\Xadrez\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.dll
+D:\Xadrez\xadrez-console\xadrez-console\bin\Debug\net5.0\ref\xadrez-console.dll
+D:\Xadrez\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.pdb
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.csproj.AssemblyReference.cache
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.AssemblyInfoInputs.cache
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.AssemblyInfo.cs
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.csproj.CoreCompileInputs.cache
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.dll
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\ref\xadrez-console.dll
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.pdb
+D:\Xadrez\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.genruntimeconfig.cache
