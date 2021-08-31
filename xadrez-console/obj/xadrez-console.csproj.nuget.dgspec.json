@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Xadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {}
+    "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {}
   },
   "projects": {
-    "D:\\Xadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {
+    "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Xadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+        "projectUniqueName": "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
         "projectName": "xadrez-console",
-        "projectPath": "D:\\Xadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+        "projectPath": "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
         "packagesPath": "C:\\Users\\saosi\\.nuget\\packages\\",
-        "outputPath": "D:\\Xadrez\\xadrez-console\\xadrez-console\\obj\\",
+        "outputPath": "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\saosi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

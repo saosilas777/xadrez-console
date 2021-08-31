@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mf0s5h+WPwbk0uQGT7UJ3jy4jO0NySJvJzOwQbaNvRMsTdvGeVoaKLtFCx8K3nEA4PR6vIy/n/0KxGctuPZ0cw==",
+  "dgSpecHash": "aEbOS+7E7T5Z6KQqTcZyL5FgKS0qJqJTu1vUycmqux2CsRevZfk43pTzhAI3ysL/GPZvz3KxbGvzCDxu68Y/gw==",
   "success": true,
-  "projectFilePath": "D:\\Xadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+  "projectFilePath": "D:\\Visual Studio Exercices\\JogoDeXadrez\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
