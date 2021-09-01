@@ -152,7 +152,7 @@ namespace xadrez
             }
             else
             {
-                return Cor.Preta;
+                return Cor.Branca;
             }
         }
 
