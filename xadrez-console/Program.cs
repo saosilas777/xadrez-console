@@ -28,7 +28,7 @@ namespace xadrez_console
 
 
 
-                        bool[,] posicoesPossiveis = partida.tab.peca(origem).movimentoPossiveis();
+                        bool[,] posicoesPossiveis = partida.tab.peca(origem).movimentosPossiveis();
 
                         Console.Clear();
                         Tela.imprimirTabuleiro(partida.tab, posicoesPossiveis);
@@ -47,6 +47,7 @@ namespace xadrez_console
 
 
                 }
+               
             }
             catch (TabuleiroException e)
             {
