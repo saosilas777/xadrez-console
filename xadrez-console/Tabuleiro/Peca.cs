@@ -9,6 +9,10 @@ namespace tabuleiro
         public int qteMovimentos { get; protected set; }
         public Tabuleiro tab { get; protected set; }
 
+        protected Peca()
+        {
+        }
+
         public Peca(Tabuleiro tab, Cor cor)
         {
             this.posicao = null;
@@ -27,7 +31,7 @@ namespace tabuleiro
             qteMovimentos--;
         }
 
-
+        
         public bool existeMovimentosPossiveis()
         {
             bool[,] mat = movimentosPossiveis();
